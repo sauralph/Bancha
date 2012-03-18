@@ -1098,7 +1098,6 @@ Ext.define('Bancha', {
                 // ENDIF
                 reader: {
                     type: 'json',
-                    root: 'data',
                     root: 'data', // <-- this is for ExtJS
                     rootProperty: 'data', // <-- this is for Sencha Touch
                     messageProperty: 'message'
