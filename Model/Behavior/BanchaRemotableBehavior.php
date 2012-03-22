@@ -44,7 +44,9 @@ class BanchaRemotableBehavior extends ModelBehavior {
 		"date" => "date",
 		"float" => "float",
 		"text" => "string",
-		"boolean" => "boolean"
+		"boolean" => "boolean",
+		"timestamp" => "date"
+
 	);
 
 	/**
